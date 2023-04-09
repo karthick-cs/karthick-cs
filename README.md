@@ -13,13 +13,6 @@ I'm a passionate self-taught frontend developer with expertise in modern web & m
 - **Backend**:  PHP, Laravel
 - **Tools**:  Git, Webpack, Babel, NPM, Yarn
 
-## My Contributions
-
-I'm an active contributor to the open-source community, and I believe in giving back to the development community. Here are some of my notable contributions:
-
-- **[Contribution 1](link-to-contribution1)**: Contributed to an open-source React library, implementing new features and fixing bugs.
-- **[Contribution 2](link-to-contribution2)**: Participated in a hackathon and contributed to a team project, collaborating with other developers and creating a reusable UI component.
-
 ## Get in Touch
 
 I'm always open to new opportunities, collaboration, and learning from fellow developers. Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/karthick-cs/). Let's connect and build amazing web and mobile experiences together!
