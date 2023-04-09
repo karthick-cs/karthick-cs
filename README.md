@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Karthick M
+# Hi! 👋 I'm Karthick M
 
 ## About Me
 
