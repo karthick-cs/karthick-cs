@@ -13,6 +13,8 @@ I'm a passionate self-taught frontend developer with expertise in modern technol
 - **Backend**:  PHP, Laravel
 - **Tools**:  Git, Webpack, Babel, NPM, Yarn
 
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=karthick-cs)](https://git.io/streak-stats)
 ## Get in Touch
 
 I'm always open to new opportunities, collaboration, and learning from fellow developers. Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/karthick-cs/). Let's connect and build amazing web and mobile experiences together!
