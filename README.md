@@ -9,7 +9,9 @@ I'm a passionate self-taught frontend developer with expertise in modern web & m
 - **Languages**: JavaScript (ES6+), HTML5, CSS3
 - **Libraries & Frameworks**: React, Redux, React Router, Nextjs, Axios, Bootstrap, Material-UI, Angular
 - **Mobile Development**: React Native, Expo, Ionic
-- **Tools **: Git, Webpack, Babel, npm, Yarn
+- **Database**:  MySQL, MongoDB
+- **Backend**:  PHP, Laravel
+- **Tools**:  Git, Webpack, Babel, NPM, Yarn
 
 ## My Contributions
 
