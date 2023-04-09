@@ -13,8 +13,15 @@ I'm a passionate self-taught frontend developer with expertise in modern technol
 - **Backend**:  PHP, Laravel
 - **Tools**:  Git, Webpack, Babel, NPM, Yarn
 
+#### Github Stats
+<img src="https://github-readme-stats.vercel.app/api?username=karthick-cs&show_icons=true" alt="github stats" width="45%" align="right"/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=karthick-cs)](https://git.io/streak-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=karthick-cs" width="48%" >
+
+
+### Top Languages
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karthick-cs&layout=compact)
+
 ## Get in Touch
 
 I'm always open to new opportunities, collaboration, and learning from fellow developers. Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/karthick-cs/). Let's connect and build amazing web and mobile experiences together!
