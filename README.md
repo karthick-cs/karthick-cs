@@ -6,7 +6,7 @@ I'm a passionate self-taught frontend developer with expertise in modern technol
 
 ## Tech Stack
 
-<img src="./coding.jpg"  height="200px" align="right"/>
+<img src="./coding.jpg"  height="280px" align="right"/>
 
 - **Languages**: JavaScript (ES6+), HTML5, CSS3
 - **Libraries & Frameworks**: React, Redux, React Router, Nextjs, Axios, Bootstrap, Material-UI, Angular
