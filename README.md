@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a passionate self-taught frontend developer with expertise in modern web & mobile technologies, including JavaScript, React, React Native, and Redux. I love crafting user-centric, responsive, and performant web and mobile applications that deliver exceptional user experiences.
+I'm a passionate self-taught frontend developer with expertise in modern technologies, including JavaScript, React, React Native, and Redux. I love crafting user-centric, responsive, and performant web and mobile applications that deliver exceptional user experiences.
 
 ## My Tech Stack
 
