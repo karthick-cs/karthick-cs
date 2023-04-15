@@ -25,7 +25,7 @@ I'm a passionate self-taught frontend developer with expertise in modern technol
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karthick-cs&layout=compact)
  
 ## Get in Touch
-<a href="mailto:karthickcs1997@gmail.com">![Email Me!!](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/karthick-cs">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="mailto:mkarthick334.mk@gmail.com">![Email Me!!](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/karthick-cs">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 I'm always open to new opportunities, collaboration, and learning from fellow developers. Let's connect and build amazing web and mobile experiences together!
 
