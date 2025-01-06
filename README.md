@@ -12,7 +12,7 @@ I'm a passionate self-taught frontend developer with expertise in modern technol
 - **Libraries & Frameworks**: React, Redux, React Router, Nextjs, Axios, Bootstrap, Material-UI, Angular, Vuejs, Typescript
 - **Mobile Development**: React Native, Ionic
 - **Database**:  MySQL, MongoDB
-- **Backend**:  PHP, Laravel, Nodejs, GraphQL
+- **Backend**:  PHP, Laravel, Python, Nodejs, GraphQL
 - **Tools**:  Git, Webpack, Vite, Babel, NPM, Yarn
 
 #### Github Stats
